@@ -26,7 +26,6 @@ class MenupetShop : CadastroPetShop() {
     fun menu() {
         tipoDepet()
         do {
-
             boasVindasNotas()
             when (readln().toInt()) {
 
